@@ -8,12 +8,19 @@
 
 Data analysis: 
 1.listed the basic information of each employee, including their employee number, last name, first name, sex, and salary.
+
 2.Indentified and listed the first name, last name, and hire date of employees who were hired in the year 1986.
+
 3.Listed the managers of each department along with their relevant details such as department number, department name, employee number, last name, and first name.
+
 4.Listed the department number for each employee, along with their employee number, last name, first name, and the department they belong to.
+
 5.filtered employees based on specific criteria related to their first name and last name, and then listing their first name, last name, and sex.
+
 6.listed all employees working in the Sales department, including their employee number, last name, and first name.
+
 7.listed employees who work in the Sales and Development departments, along with their employee number, last name, first name, and the department they belong to.
+
 8.counted how many employees share each last name and listing these counts in descending order to identify the most common last names among the employees.
 
 References
